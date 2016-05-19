@@ -18,6 +18,13 @@ $ git push resin master
 ```
 It should take a few minutes for the code to push.
 
+#### Currently Supported Boards:
+* Raspberry Pi 1 and ZERO
+* Raspberry Pi 2
+* Raspberry Pi 3
+* Beaglebone Black and Green
+* Odroid C1/C1+
+
 [resin-link]:https://resin.io/
 [signup-page]:https://dashboard.resin.io/signup
 [gettingStarted-link]:http://docs.resin.io/raspberrypi/python/getting-started/
