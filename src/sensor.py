@@ -10,7 +10,7 @@
 import smbus, os
 from time import sleep
 
-busNumber = os.getenv("I2C_BUS")
+busNumber = int(os.getenv("I2C_BUS"))
 
 bus = smbus.SMBus(busNumber)
 
