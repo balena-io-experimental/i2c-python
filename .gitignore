@@ -1,0 +1,11 @@
+# Temporary files.
+.#*
+
+# Log files.
+*.log
+
+# ignore pyc files
+*.pyc
+
+#OSX hidden metadata file
+.DS_Store
